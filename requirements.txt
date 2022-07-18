@@ -1,0 +1,10 @@
+fastapi==0.68.0
+uvicorn==0.12.2
+manage-fastapi==1.1.1
+SQLAlchemy==1.4.37
+cx-Oracle==8.3.0
+python-dotenv==0.20.0
+autopep8==1.6.0
+pydantic==1.9.1
+pydantic[email]
+pandas==1.1.5
